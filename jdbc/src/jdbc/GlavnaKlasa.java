@@ -10,8 +10,7 @@ public class GlavnaKlasa {
 
 	public static void main(String[] args) {
 		
-		Scanner scanner = new Scanner(System.in);
-		
+		Scanner scanner = new Scanner(System.in);	
 		/*
 		 * System.out.println("Unesite platu: "); String plata = scanner.nextLine();
 		 */
